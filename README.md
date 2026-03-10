@@ -4,6 +4,7 @@ It was my first solo project after completing the Unity-Junior-Programmer-Course
 
 ## Content
 - player controller
+- scrolling background
 - power-ups
 - enemy behaviour
 - boss fight
